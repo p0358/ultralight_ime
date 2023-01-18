@@ -1,0 +1,7 @@
+x64
+lib
+include
+ultralight
+resources
+*.aps
+.vs

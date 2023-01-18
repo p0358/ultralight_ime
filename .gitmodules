@@ -1,0 +1,3 @@
+[submodule "IngameIME_Win32"]
+	path = IngameIME_Win32
+	url = https://github.com/Windmill-City/IngameIME_Win32.git
